@@ -1,32 +1,20 @@
-# BHF Data Science Centre research project template
-
-This is a template repository used by the BHF Data Science Centre team when creating new repositories for single-nation CVD-COVID-UK/COVID-IMPACT projects.
-
-# Project name
+# Readmission after heart valve surgery in the United Kingdom
 
 ## Project description
 
-Description will be added here.
+Unplanned emergency admission after cardiac surgery is associated with significant morbidity and a high burden to the healthcare system. We aim to evaluate the readmission rate in the first 12 months after heart valve surgery in the United Kingdom.
 
 ## How to cite this work
 > Citation details to follow
 
 ## Contents
 
-* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU007_11/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU007_11/tree/main/phenotypes)
 
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (project: CCUXXX_XX).
-
-This is a sub-project of [project CCU0XX](https://github.com/BHFDSC/CCU0XX) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU0XX_XX).
+This is a sub-project of [project CCU007](https://github.com/BHFDSC/CCU007) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU007_11).
 
 ## License
 
