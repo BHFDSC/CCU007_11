@@ -1,8 +1,10 @@
-# Readmission after heart valve surgery in the United Kingdom
+# Hospital readmission after heart valve surgery in the United Kingdom
+
+**Jeremy Chan, Pradeep Narayan, Tim Dong, Daniel P. Fudulu, Gianni D. Angelini, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
 
 ## Project description
 
-Unplanned emergency admission after cardiac surgery is associated with significant morbidity and a high burden to the healthcare system. We aim to evaluate the readmission rate in the first 12 months after heart valve surgery in the United Kingdom.
+Unplanned emergency admission after cardiac surgery is associated with significant morbidity and a high burden to the healthcare system. We aimed to evaluate the readmission rate in the first 12 months after heart valve surgery in the United Kingdom.
 
 ## How to cite this work
 > Citation details to follow
