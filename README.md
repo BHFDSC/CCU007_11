@@ -7,7 +7,7 @@
 Unplanned emergency admission after cardiac surgery is associated with significant morbidity and a high burden to the healthcare system. We aimed to evaluate the readmission rate in the first 12 months after heart valve surgery in the United Kingdom.
 
 ## How to cite this work
-> Citation details to follow
+Chan J, Narayan P, Dong T, Fudulu DP, Angelini GD, On behalf of the CVD-COVID-UK/COVID-IMPACT Consortium, Hospital readmission after heart valve surgery in the United Kingdom, JTCVS Open (2025), doi: https://doi.org/10.1016/j.xjon.2025.02.001
 
 ## Contents
 
